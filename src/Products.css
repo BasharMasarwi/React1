@@ -1,0 +1,13 @@
+.product h2{
+    font-size: 35px;
+    text-align: center;
+    color: rgba(187, 255, 0, 0.938);
+}
+.product p{
+    font-size: 24px;
+    text-align: center;
+    color: rgba(150, 22, 224, 0.932);
+}
+.row{
+    background-color: black;
+}

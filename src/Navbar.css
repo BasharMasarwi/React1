@@ -1,0 +1,10 @@
+.collapse .navbar-nav a ,.collapse .navbar-nav a.active , .container a{
+    color: red;
+    font-size: 36px;
+    padding-left: 50px;
+}
+ .nn a{
+    color: blue;
+    
+}
+
